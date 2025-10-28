@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Devendra Bhausaheb Gangurde  
+# 👋 Hi, I'm Devendra Gangurde  
 🚀 Aspiring Data Scientist | Python & AI Enthusiast | Data Analyst in Progress  
 
 📍 Pune, Maharashtra, India  
