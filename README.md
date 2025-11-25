@@ -1,7 +1,7 @@
 ![profile view counter on GitHub](https://komarev.com/ghpvc/?username=Devenzz)
 
 # 💫 About Me:
-Hi, I'm Devendra Gangurde! 👋<br><br>I’m an enthusiastic learner passionate about turning data into clear insights and practical solutions. I enjoy exploring new technologies, analyzing real datasets, and continuously improving my problem-solving skills. Here's a little about me:<br><br>📊 Aspiring Data Scientist with a strong interest in analytics and insights<br><br>🐍 Skilled in Python, data handling, and logical problem-solving<br><br>🌐 Experienced in web scraping and working with real-world data<br><br>📚 Dedicated to learning machine learning, automation, and advanced analytics<br><br>🚀 Highly motivated, consistent, and always looking to grow<br><br>💡 Curious mindset with a focus on clarity, accuracy, and continuous improvement
+## Hi, I'm Devendra Gangurde! 👋<br><br>I’m an enthusiastic learner passionate about turning data into clear insights and practical solutions. I enjoy exploring new technologies, analyzing real datasets, and continuously improving my problem-solving skills. Here's a little about me:<br><br>📊 Aspiring Data Scientist with a strong interest in analytics and insights<br><br>🐍 Skilled in Python, data handling, and logical problem-solving<br><br>🌐 Experienced in web scraping and working with real-world data<br><br>📚 Dedicated to learning machine learning, automation, and advanced analytics<br><br>🚀 Highly motivated, consistent, and always looking to grow<br><br>💡 Curious mindset with a focus on clarity, accuracy, and continuous improvement
 
 
 ## 🌐 Socials:
