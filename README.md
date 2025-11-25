@@ -19,3 +19,32 @@ Hi, I'm Devendra Gangurde! 👋<br><br>I’m an enthusiastic learner passionate 
 [![](https://visitcount.itsvg.in/api?id=Devenzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧩 Professional Focus  
+I am driven by a strong commitment to continuous learning and precision in my work.  
+My approach combines analytical thinking, clean coding practices, and a deep curiosity for understanding how data shapes decisions. I believe in building skills consistently and applying them to meaningful, real-world problems.
+
+---
+
+## 🚀 Current Focus Areas  
+- Strengthening my foundation in Data Science & Analytical Problem-Solving  
+- Mastering Python for automation, data manipulation, and visualization  
+- Expanding my expertise in SQL, Power BI, and data-driven storytelling  
+- Enhancing my understanding of Machine Learning fundamentals  
+- Working on structured, real-world projects to build industry-ready skills  
+
+---
+
+## 🏆 What I Bring  
+- A consistent learner with strong attention to detail  
+- Clear understanding of analytical concepts & real-world data  
+- Strong discipline, time management, and self-motivation  
+- Ability to break down problems logically and solve them efficiently  
+- Professional communication and a mindset focused on improvement  
+
+---
+
+## 🌟 My Vision  
+To build a strong career in **Data Science**, where I can leverage data to solve challenges, support business decisions, and create meaningful impact.  
+I aim to grow into a well-rounded data professional capable of transforming raw information into actionable insights.
+
