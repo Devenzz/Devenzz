@@ -39,7 +39,7 @@
 
 ---
 ### 🛢️ [Employee Management System ](https://github.com/Devenzz/Employee-managment-system)
--Performed end-to-end **MySQL development** for managing employee data  
+- Performed end-to-end **MySQL development** for managing employee data  
 - Designed database with employee, department, salary & attendance tables  
 - Implemented **CRUD operations** and optimized SQL queries  
 - Used **joins, subqueries, CTEs, and window functions** for analytics  
